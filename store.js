@@ -1,0 +1,1 @@
+document.getElementById('food1N').innerHTML = "Curry Chiken Katsu";
